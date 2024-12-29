@@ -1,7 +1,3 @@
-Here's an updated and detailed README tailored to your Streamlit-based grammar correction application:
-
----
-
 # Grammar Correction with AI
 
 This is a web-based application built with **Streamlit**, leveraging advanced transformer models to correct grammatical errors in sentences. The app is powered by the **"prithivida/grammar_error_correcter_v1"** model, ensuring accurate grammar correction in real-time.
